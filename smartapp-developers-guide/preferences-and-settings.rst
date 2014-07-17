@@ -36,7 +36,7 @@ following hierarchy:
             device.spark, device.switch, device.temperatureSensor,
             device.unknown, device.aeonMultiSensor, device.zWaveAlarm,
             device.zWaveMultilevelSwitch, device.zWaveSwitch,
-            device.zWaveWaterAlarm, time, phone, number, string
+            device.zWaveWaterAlarm, time, phone, number, string, bool
          -  description: A string that will be displayed to the user
             that will be the default selection. Ex. "Tap to set"
          -  multiple: A boolean that sets whether the selection box
